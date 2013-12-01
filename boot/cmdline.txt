@@ -1,0 +1,1 @@
+dwc_otg.lpm_enable=0 smsc95xx.turbo_mode=N console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 root=/dev/nfs nfsroot=172.26.72.172:/srv/nfsroot ip=dhcp rw rootwait rwfs=tmpfs rootfstype=nfs rootfsopts=nolock ntphost=172.26.72.172
